@@ -10,6 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@kevinmarrec/nuxt-pwa": "0.17.0",
+    "@nuxtjs/i18n": "8.5.1",
+    "@nuxtjs/tailwindcss": "6.4.1",
     "@pinia/nuxt": "0.5.4",
     "@trezor/connect-web": "9.1.4",
     "moment": "2.30.1",
@@ -22,9 +25,6 @@
     "uuid": "10.0.0"
   },
   "devDependencies": {
-    "@kevinmarrec/nuxt-pwa": "0.17.0",
-    "@nuxtjs/i18n": "8.5.1",
-    "@nuxtjs/tailwindcss": "6.4.1",
     "@types/node": "18.14.2",
     "@types/uuid": "9.0.1",
     "tslib": "2.6.2"
