@@ -1,4 +1,4 @@
-# Awesome Nexa Smart Wallet
+# Smart Wallet by Awesome Nexa
 
 ### https://wallet.awesomenexa.org
 
@@ -17,7 +17,7 @@ Additional information can be found in the __[MetaMask Docs](https://docs.metama
 
 ## Companion Wallet
 
-__[Awesome Nexa Smart Wallet](https://wallet.awesomenexa.org)__ is a web-based Nexa wallet that allows you to connect to the MetaMask extension and perform various wallet actions, including:
+__[Smart Wallet by Awesome Nexa](https://wallet.awesomenexa.org)__ is a web-based Nexa wallet that allows you to connect to the MetaMask extension and perform various wallet actions, including:
 1. __ACCOUNTS —__ Conveniently manage multiple Nexa addresses.
 2. __TRANSFERS —__ Easily send & receive transactions.
 3. __ASSETS —__ Manage ALL of your $TOKENS and NFTs in one place.
