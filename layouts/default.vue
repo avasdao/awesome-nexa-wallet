@@ -330,7 +330,7 @@ onMounted(() => {
                             </ul>
                         </li>
 
-                        <li>
+                        <!-- <li>
                             <div class="text-xs font-semibold leading-6 text-gray-400">
                                 More Builder Studios...
                             </div>
@@ -358,9 +358,9 @@ onMounted(() => {
                                 </li>
 
                             </ul>
-                        </li>
+                        </li> -->
 
-                        <li>
+                        <!-- <li>
                             <div class="text-xs font-semibold leading-6 text-gray-400">
                                 Resource Centers
                             </div>
@@ -386,7 +386,7 @@ onMounted(() => {
                                     </NuxtLink>
                                 </li>
                             </ul>
-                        </li>
+                        </li> -->
 
                         <li class="mt-auto">
                             <NuxtLink to="/settings" class="group -mx-2 flex gap-x-3 rounded-md p-2 text-sm font-semibold leading-6 text-gray-400 hover:bg-gray-800 hover:text-white">
