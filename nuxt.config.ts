@@ -6,7 +6,7 @@ export default defineNuxtConfig({
         head: {
             charset: 'utf-8',
             viewport: 'width=device-width, initial-scale=1',
-            title: 'Wise Wallet by Awesome Nexa',
+            title: 'My Awesome Nexa Wallet',
             meta: [
                 { name: 'description', content: `A highly-configurable, non-custodial Nexa wallet; designed from the ground-up to specifically address the MOST important needs of Builders and Creators.` },
             ],
@@ -22,14 +22,14 @@ export default defineNuxtConfig({
     /* Progressive Web Application Settings */
     pwa: {
         manifest: {
-            name: 'Wise Wallet by Awesome Nexa',
-            short_name: 'Studio Wallet',
+            name: 'My Awesome Nexa Wallet',
+            short_name: 'Awesome Wallet',
             description: `A highly-configurable, non-custodial Nexa wallet; designed from the ground-up to specifically address the MOST important needs of Builders and Creators.`,
             // lang: 'en',
             // useWebmanifestExtension: false,
         },
         meta: {
-            name: 'Wise Wallet by Awesome Nexa',
+            name: 'My Awesome Nexa Wallet',
             description: `A highly-configurable, non-custodial Nexa wallet; designed from the ground-up to specifically address the MOST important needs of Builders and Creators.`,
             author: `Nexa contributors`,
             // nativeUI: true,
