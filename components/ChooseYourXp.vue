@@ -90,12 +90,12 @@ const enableMetaNet = () => {
             </label>
 
             <!-- Active: "border-sky-600 ring-2 ring-sky-600", Not Active: "border-gray-300" -->
-            <label @click.prevent="enableMetaNet" aria-label="Nxy MetaNet" aria-description="Last activity was 4 days ago to 2740 users" class="relative flex cursor-pointer rounded-lg border border-gray-300 bg-white p-4 shadow-sm focus:outline-none">
-                <input type="radio" name="project-type" value="Nxy MetaNet" class="sr-only" />
+            <label @click.prevent="enableMetaNet" aria-label="Nexa MetaMask" aria-description="Last activity was 4 days ago to 2740 users" class="relative flex cursor-pointer rounded-lg border border-gray-300 bg-white p-4 shadow-sm focus:outline-none">
+                <input type="radio" name="project-type" value="Nexa MetaMask" class="sr-only" />
                 <span class="flex flex-1">
                     <span class="flex flex-col">
                         <span class="block text-lg font-medium text-gray-700 tracking-tighter">
-                            Nxy MetaNet
+                            Nexa Web3 Client
                         </span>
 
                         <span class="mt-1 flex items-center text-sm text-gray-500">
@@ -103,7 +103,7 @@ const enableMetaNet = () => {
                         </span>
 
                         <span class="mt-6 text-xs font-medium text-gray-500">
-                            Ethereum Layer1 VM
+                            MetaMask Snap
                         </span>
                     </span>
                 </span>
