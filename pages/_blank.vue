@@ -1,6 +1,6 @@
 <script setup lang="ts">
 useHead({
-    title: `Blank — Wallet Studio`,
+    title: `Blank — My Awesome Nexa Wallet`,
     meta: [
         { name: 'description', content: `Nexa Studio makes building your next BIG idea effortless.` }
     ],
