@@ -8,9 +8,9 @@ const props = defineProps({
 })
 
 const enableMetaNet = () => {
-    if (confirm('Would you like to take a moment and learn how YOU CAN HELP to enable MetaNet in this wallet?')) {
-        window.open('https://causes.cash/c/f900d1b8-1ae0-4e18-8a2f-212631b62562')
-    }
+    // if (confirm('Would you like to take a moment and learn how YOU CAN HELP to enable MetaNet in this wallet?')) {
+    //     window.open('https://causes.cash/c/f900d1b8-1ae0-4e18-8a2f-212631b62562')
+    // }
 }
 
 // onMounted(() => {
